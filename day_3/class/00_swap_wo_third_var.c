@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
-    int a, b, c;
+    int a, b;
 
     printf("Enter first number: ");
     scanf("%d", &a);
@@ -14,9 +13,9 @@ int main() {
 
     printf("Before swapping | a is %d | b is %d\n", a, b);
 
-    c = a;
-    a = b;
-    b = c;
+    a = a + b;
+    b = a - b;
+    a = a - b;
 
     printf("After swapping | a is %d | b is %d", a, b);
 
