@@ -1,0 +1,4 @@
+wap amstrong num
+wap palindrom
+wap pefect number
+wap sum folowing srs n^2
