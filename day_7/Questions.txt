@@ -1,0 +1,11 @@
+1) Write a program to print from 1-10 using for loop 
+2) Write a program to print sum of first 10 natural numbers
+3) Write a program to print multiplication table of 5 using for loop
+4) Write a program to print even number b/w 2 to 20
+5) Write a program to print odd number b/w 1 to 19
+6) Write a program to calculate factorial of a no. using loop
+7) Write a program to sum of digits using for loop
+8) Write a program to print reverse of a number using for loop
+9) Write a program to find gcd of 2 number using for loop
+10) Write a program to check if input number is prime or not
+11) Write a program to print fibonacci series up to n number of terms
