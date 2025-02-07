@@ -1,0 +1,13 @@
+wap input 5 elements an arr and print
+wap input no 1 - 20
+    find sum of nos
+    fond average of nos
+    find max and min
+    count even and odd nos of arr
+
+    find largest & 2nd largest
+    find 5 in arr
+    reverse arr
+
+    replace all even no with 1000
+    remove all odd no and replace to 0

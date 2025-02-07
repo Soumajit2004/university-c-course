@@ -1,4 +1,7 @@
 wap amstrong num
 wap palindrom
-wap pefect number
-wap sum folowing srs n^2
+wap perfect number
+wap sum following srs n^2
+
+wap decimal to binary
+wap binary to decimal
