@@ -1,4 +1,4 @@
-arr pratiece
+arr practice
 
 1. wap to input arr 10 nos and sort in ass order - b sort
 2. wap to search element using linear search
