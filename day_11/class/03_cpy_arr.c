@@ -3,11 +3,17 @@
 int main()
 {
 
-    int arr[10] = {1, 2, 3, 4, 56, 6, 7, 8, 7, 5};
+    int n = 10;
+    int arr[n];
 
-    int cp_arr[10];
+    for (int i = 0; i < n; i++)
+    {
+        printf("Enter num at index %d", i);
+    }
 
-    for (int i = 0; i < 10; i++)
+    int cp_arr[n];
+
+    for (int i = 0; i < n; i++)
     {
         cp_arr[i] = arr[i];
     }

@@ -4,18 +4,18 @@
 int main()
 {
 
-    int arr[10];
+    int n = 10;
+    int arr[n];
 
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < n; i++)
     {
-        printf("Enter element at index %d", i);
-        scanf("%d", &arr[i]);
+        printf("Enter num at index %d", i);
     }
 
     int min = INT_MAX;
     int max = INT_MIN;
 
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < n; i++)
     {
         if (arr[i] > max)
         {

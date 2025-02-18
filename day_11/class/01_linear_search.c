@@ -3,13 +3,19 @@
 int main()
 {
 
-    int arr[5] = {2, 4, 2, 4, 6};
+    int n = 10;
+    int arr[n];
+
+    for (int i = 0; i < n; i++)
+    {
+        printf("Enter num at index %d", i);
+    }
 
     int ele;
     printf("Search Number: ");
     scanf("%d", &ele);
 
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < n; i++)
     {
         if (arr[i] == ele)
         {

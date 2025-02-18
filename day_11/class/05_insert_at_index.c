@@ -3,7 +3,13 @@
 int main()
 {
 
-    int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};
+    int n = 10;
+    int arr[n];
+
+    for (int i = 0; i < n; i++)
+    {
+        printf("Enter num at index %d", i);
+    }
 
     int index, element;
 
@@ -13,7 +19,7 @@ int main()
     printf("Enter index to replace: ");
     scanf("%d", &index);
 
-    if (index > 10 && index < 0)
+    if (index > n && index < 0)
     {
         printf("\nIndex out of rage");
         return 0;
@@ -22,7 +28,7 @@ int main()
     arr[index] = element;
 
     printf("\nUpdated array: \n");
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < n; i++)
     {
         printf("%d ", arr[i]);
     }
