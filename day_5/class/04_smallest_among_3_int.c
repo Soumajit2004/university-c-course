@@ -3,7 +3,7 @@
 int main()
 {
 
-    int num1, num2, num3;
+    int num1, num2, num3; 
 
     printf("Enter 1st number: ");
     scanf("%d", &num1);
@@ -22,7 +22,7 @@ int main()
     {
         printf("%d is smallest", num1);
     }
-    else if (num2 < num2 && num2 < num3)
+    else if (num2 < num1 && num2 < num3)
     {
         printf("%d is smallest", num2);
     }

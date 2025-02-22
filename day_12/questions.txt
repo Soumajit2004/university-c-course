@@ -1,0 +1,13 @@
+wap to input yourname in char arr, print arr and no of char in name
+ - find no of vowel and consonent in name
+
+wap your name in capital letter, and convert all letter into sentence case
+
+wap to reverse a char arr
+
+wap to check if palindrome
+
+wap to create firstname and lastname arr
+ - merge both the arr and name as fullName
+
+wap to input your fullname and count freq of each char in string
