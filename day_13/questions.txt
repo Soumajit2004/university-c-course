@@ -1,0 +1,6 @@
+wap to implement factorial of a number using functions
+wap to find sum of the digits using function
+wap sum of all integer in an array using function
+wap to implment a linear serach function in an array
+wap to implement a bubble sort function
+wap to calculate gcd of a number using iterative function
