@@ -1,0 +1,14 @@
+
+using recursion
+
+factorial of a num -> d
+fibbonachi series -> d
+sum of digits -> d
+power function
+reverse a given number -> d
+implement gcd -> d
+sum of n natural num -> d
+check if pallindrom -> d
+
+sum of element of arr -> d
+count num of digits in a num -> d
