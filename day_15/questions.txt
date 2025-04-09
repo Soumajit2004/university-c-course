@@ -1,0 +1,6 @@
+WAP swap two no using call by reference
+WAP find sum of two no using pointers
+WAP largest element in arr using pointers
+WAP to implement bubble sort using pointers
+WAP to rev a arr using pointers
+WAP to length of a string using pointers
