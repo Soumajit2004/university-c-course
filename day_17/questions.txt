@@ -1,0 +1,15 @@
+Write a c program for the following using basic concepts and dynamic memory allocation. Take USER DEFINED INPUTS FOR ALL
+
+1.to allocate an array using malloc and perform pointer arithmetic to modify and print the elements.
+ Finally print the sum of the elements in the array
+
+2.create a simple calculator using pointer function in which we have to define add substract multiply and divide functions. 
+Define  function pointers that can point to these functions. Appropriate function will be called using function pointer.
+
+3. to input a string and reverse it 
+
+4.create an array of 5 elements using malloc, use memset() to initialize all the elements of array to 0.
+ Input 5 elements and find sum of all the elements of the array.
+
+5.create an array of 5 elements using calloc, use memset() to initialize all the elements of array to 0. 
+Input 5 elements and find sum of all the elements of the array.
