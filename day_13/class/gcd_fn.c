@@ -17,9 +17,9 @@ int main()
     int num2;
 
     printf("Enter 1st number: ");
-    scanf("%d", num1);
+    scanf("%d", &num1);
     printf("Enter 2nd number: ");
-    scanf("%d", num2);
+    scanf("%d", &num2);
 
     printf("GCD of %d and %d is %d\n", num1, num2, gcd(num1, num2));
     return 0;

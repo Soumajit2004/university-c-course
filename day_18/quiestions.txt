@@ -1,0 +1,17 @@
+WAP define a struc CAR with fields name, mode no, price.
+arr of five cars and display most expensive cars
+
+create a union Marks, internal, external. Print values of internal and external
+
+Use a typedef to define a struct Point with x and y 
+    - WAP to add x and y and print
+
+Define a enum for grades (A, B, C, D, E, F) and display corresponding message
+
+define a enum for weekdays, wap that takes a no 0-6 as input and prints the corresponding input as a switch case.
+
+create a struct Complex Number , and multiply and print the complex no.
+
+use typedef Bank account with holder name, acc no and balance and only print
+
+write a menu based program for deposit withdrawl and check ballance.

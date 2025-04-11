@@ -14,6 +14,7 @@ int main() {
     int sal = emp.basic_salary;
     float hra = sal * .2;
     float da = sal * .3; 
+    
 
     printf("Name: %s\nBase Salary: %d\nHRA: %.2f\nDA: %.2f\nTotal: %.2f", emp.name, sal, hra, da, (float)sal + hra + da);
 
