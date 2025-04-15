@@ -1,5 +1,15 @@
 {
   "files.associations": {
     "stdio.h": "c"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "yaml": false,
+    "c": true,
+    "java": false,
+    "typescript": true
   }
 }

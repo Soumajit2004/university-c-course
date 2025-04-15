@@ -1,0 +1,6 @@
+wap to create a text file and write hello world into it.
+wap to create a file in which input your details such as name, roll no, section and address and save it and wap to read the content of the file and display on the console. Pls save the file name as personal info.txt
+wap to copy content of one file to another file. first create file.
+wap to count the number of words characters in a text file.
+wap to append the content of personalinfo.txt where u need to append the branch name u are studying inw
+wap to create a file called as data where u need to input numbers from 1 to 100, the open the file data.txt, read the file if the file content is odd then put it into another file even.txt if even write it into odd.txt.
